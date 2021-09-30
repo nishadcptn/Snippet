@@ -7,7 +7,7 @@
 'snippet/'       -     for getting all snippet and all snippe count (GET, POST)
                         / creating snippet
 
-'snippet/<pk>     -      for getting snippet details with pk (GET, POST, PUT, DELETE)
+'snippet/{PK}     -      for getting snippet details with pk (GET, POST, PUT, DELETE)
                         / updating snippets 
                         /deleting Snippets
 
